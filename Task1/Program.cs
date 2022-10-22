@@ -42,6 +42,10 @@ if (Right(number))
 {
     Palindrome(number);
 }
+else
+{
+    System.Console.WriteLine("Ваше число не является пятизначным. Перезапустите программу и попробуйте ещё раз.");
+}
 
 
 
